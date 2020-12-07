@@ -1,0 +1,2 @@
+En estas imágenes dejo captura de pantalla de los localhots correspondientes a Grafana, ElasticSearch y Graylog.
+Por motivos relacionados a la capacidad técnica de mi computadora, no pude lleagar más lejos (se saturó la ram y se tildó varias veces)
